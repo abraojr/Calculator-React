@@ -1,3 +1,11 @@
+# Project: Calculator developed with React
+
+<p> In this project I developed a simple calculator, to put into practice some of the properties of the React library that I learned. The calculator has the four basic operations (addition, subtraction, multiplication and division).</p>
+
+<h1>Demo:</h1>
+
+[![ezgif-com-gif-maker.gif](https://i.postimg.cc/BQ7xX0tT/ezgif-com-gif-maker.gif)](https://postimg.cc/XpFZztfq)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# calculator
